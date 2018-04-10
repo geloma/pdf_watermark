@@ -1,5 +1,7 @@
 # pdf_password
 	Using PyPdf to overlay image on pdf
+	Requirements:
+	 pip install fpdf Pillow pypdf
 	
 	Examples
 	* Specific page, the pages begin at zero
