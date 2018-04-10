@@ -1,5 +1,3 @@
-#pip install fpdf Pillow pypdf
-
 import sys
 import random
 import string
